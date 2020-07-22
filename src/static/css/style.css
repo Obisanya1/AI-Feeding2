@@ -1,0 +1,37 @@
+#logo2{
+    padding-left: 6rem;
+}
+
+#logo1{
+    padding-top: 1.3rem;
+}
+
+#card{
+font-size: 80px;
+padding-left: 8rem;
+padding-top: 1.3rem;
+}
+
+hr{
+    color: black;
+}
+
+#tab{
+    border-color: black !important;
+}
+
+#button1{
+    width: 180px;
+    height: 3rem;
+    font-weight: bold;
+    background-color: rgb(235, 235, 235);
+    border-radius: 10px;
+    position: relative;
+    top: 3rem;
+    left: 10rem;
+}
+
+@media only screen and (min-width: 600px)
+{
+  
+}
